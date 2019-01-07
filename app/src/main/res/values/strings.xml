@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BolakuBro</string>
+    <string name="ic_team">Teams</string>
+    <string name="ic_match">Matches</string>
+    <string name="ic_favorites">Favorites</string>
+</resources>
